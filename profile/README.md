@@ -1,41 +1,34 @@
 # NNS Development
-We’re a group of passionate team of three, doing what they're most capable of. Procrastination, Developing, and having Fun!
 
-**🌱 Why Are We Doing This?**  
-  
-We aim to produce anything that could potentially help the world.  
-We want to build projects that are:  
-- Open-source
-- Cool and impactful 
+**Software built for people, by people.**
 
-**🛠️ Contributions to the World**  
-  
-Here are some of the amazing things we’re working on:
-- **[Project 1]**: Short description of the project
-- **[Project 2]**: Short description of the project
-- **[Project 3]**: Short description of the project
+At NNS Development, we create **software that works for you.**
+No hype. No fluff. Just solid, reliable tools that help businesses run better.
 
-Want to see more? Check out our [Projects Page](#)!
+Whether you need a custom app, an AI chatbot, workflow automation, or something entirely unique — we can build it.
+If you can imagine it, we can code it.
 
-**👓 What's Next**  
-  
-See what's next on our public roadmap ✨ and let us know if you have any suggestions.
-We try to update this every few weeks or so, but forgive us if we forget about it 🙏.
+### What We Do
 
+* **Custom Software Development**
+  Tailored solutions built to match your exact needs.
+* **AI & Automation**
+  Chatbots, email automation, product management, smart integrations.
+* **Web & Mobile Apps**
+  Fast, clean, user-friendly apps that get the job done.
+* **APIs & Integrations**
+  Connect your existing systems or build new ones from scratch.
 
-**🤝 How to Contribute**
-  
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+### How We Work
 
-How to contribute to our projects:
-1. Explore featured projects
-2. See what you can contribute
-3. Open a issue or a pull request!
+✅ We listen first — no assumptions.  
+✅ We build with care and transparency.  
+✅ We work fully remote, so we can support companies anywhere.  
+✅ We take on projects big or small — if it matters to you, it matters to us.  
 
-Check out our [Contributing Guidelines](#) for more details.
+### Let's Work Together
 
-## 📬 Contact Us
-Got questions or ideas? We’d love to hear from you!
-- 📧 Email: nns.development@gmail.com
+Got an idea? Got a pain point? Just want to chat about what's possible?  
+**Email us:** [nns.development@example.com](mailto:nns.development@example.com)  
+**Visit:** [nnsdev.vercel.com](https://nnsdev.vercel.com)  
 
-Let’s build something incredible together! 🚀
