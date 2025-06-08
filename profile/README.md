@@ -30,5 +30,5 @@ If you can imagine it, we can code it.
 
 Got an idea? Got a pain point? Just want to chat about what's possible?  
 **Email us:** [nns.development@example.com](mailto:nns.development@example.com)  
-**Visit:** [nnsdev.vercel.com](https://nnsdev.vercel.com)  
+**Visit:** [nnsdev.vercel.app](https://nnsdev.vercel.app)  
 
